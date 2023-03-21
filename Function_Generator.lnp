@@ -1,0 +1,4 @@
+".\New folder\STARTUP.obj",
+".\New folder\Function_Generator.obj" 
+TO ".\New folder\Function_Generator" 
+PRINT(".\Listings\Function_Generator.m51") RAMSIZE(256) 
